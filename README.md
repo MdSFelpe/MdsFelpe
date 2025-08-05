@@ -1,9 +1,20 @@
-# 👋 Howdy! I'm Fellype
+# 👋 Hello! I'm Fellype
+
+<h3 align="center"> Back-end & Cloud Developer</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fellype-augusto-1b145326b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fellypeaugusto04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 
 ---
 
-### 📖 About Me
+### 📖 About Me / Sobre Mim
 
 <details>
   <summary><strong>Português</strong> (Clique para expandir)</summary>
@@ -21,38 +32,9 @@
 
 ### 🚀 Technologies and Tools
 
-<p align="left">
-  <strong>Back-end:</strong><br>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring" />
-  </a>
-</p>
-
-<p align="left">
-  <strong>Cloud:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-</p>
-
-<p align="left">
-  <strong>Artificial Intelligence:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</p>
-
-<p align="left">
-  <strong>Front-end:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-  </a>
-</p>
-
-<p align="left">
-  <strong>Database & Tools:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,python,html,css,javascript,mysql,git,github" />
   </a>
 </p>
 
