@@ -43,6 +43,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MdSFelpe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdSFelpe&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MdSFelpe&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdSFelpe&amp;layout=compact&amp;theme=dracula" alt="Top Linguagens" />
 </p>
